@@ -1351,7 +1351,7 @@ body {
 /* Styles for the congratulations text */
 .congratulations {
     position: absolute;
-    font-size: 1.6em;
+    font-size: 1.3em;
     font-weight: bold; /* Make the text bold */
     color: pink; /* Set the text color to pink */
     text-align: center;
